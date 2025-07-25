@@ -73,17 +73,6 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Iniciar sesión",
-            "altText": "Iniciar sesión",
-            "url": "/login",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": "",
-            "type": "Link"
-        },
-        {
             "label": "¡Únete!",
             "altText": "Únete a Best Las Palmas",
             "url": "/unete",
