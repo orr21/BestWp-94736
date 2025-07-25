@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ¡Únete a la revolución estudiantil de Las Palmas! 🚀
+      text: "¡Únete a la revolución estudiantil de Las Palmas! \U0001F680"
       color: text-dark
       type: TitleBlock
     subtitle: Best Las Palmas - Donde los estudiantes brillan
@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Descubre más
         altText: ''
-        url: /
+        url: /sobre-nosotros
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ¡Nuevo semestre, nuevas aventuras!
+      label: '¡Nuevo semestre, nuevas aventuras!'
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: ¿Por qué Best Las Palmas es increíble? 🌟
+      text: "¿Por qué Best Las Palmas es increíble? \U0001F31F"
       color: text-dark
       styles:
         self:
@@ -116,8 +116,8 @@ sections:
       - title: 100%
         subtitle: Diversión garantizada
         text: >-
-          Prometemos que tu experiencia universitaria será épica. Amistades
-          para toda la vida, recuerdos increíbles y mucha diversión.
+          Prometemos que tu experiencia universitaria será épica. Amistades para
+          toda la vida, recuerdos increíbles y mucha diversión.
         image:
           url: /images/icon3.svg
           altText: Diversión estudiantil
@@ -213,7 +213,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
     title:
-      text: Historias que inspiran 📖
+      text: "Historias que inspiran \U0001F4D6"
       color: text-dark
       styles:
         self:
@@ -231,7 +231,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Tu futuro comienza aquí 🎯
+      text: "Tu futuro comienza aquí \U0001F3AF"
       color: text-dark
       styles:
         self:
@@ -279,7 +279,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Networking que funciona 🤝
+      text: "Networking que funciona \U0001F91D"
       color: text-dark
       styles:
         self:
@@ -333,10 +333,10 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Eventos que no te puedes perder 🎉
+      text: "Eventos que no te puedes perder \U0001F389"
       color: text-dark
       type: TitleBlock
-    subtitle: Diversión, aprendizaje y networking en uno
+    subtitle: 'Diversión, aprendizaje y networking en uno'
     text: >
       Desde fiestas temáticas hasta hackathons, pasando por torneos de
       videojuegos y charlas inspiradoras. En Best Las Palmas siempre pasa algo
@@ -369,7 +369,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Desarrollo personal y profesional 💪
+      text: "Desarrollo personal y profesional \U0001F4AA"
       color: text-dark
       type: TitleBlock
     subtitle: Crece mientras te diviertes
@@ -417,7 +417,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Lo que dicen nuestros miembros 💬
+    subtitle: "Lo que dicen nuestros miembros \U0001F4AC"
     items:
       - title: >-
           "Best Las Palmas cambió completamente mi experiencia universitaria.
@@ -426,8 +426,8 @@ sections:
         subtitle: 'María González, Estudiante de Marketing'
         text: >-
           Llegué tímida y sin saber qué hacer con mi carrera. Ahora lidero
-          proyectos, tengo una red increíble de contactos y sé exactamente
-          hacia dónde voy.
+          proyectos, tengo una red increíble de contactos y sé exactamente hacia
+          dónde voy.
         image:
           url: /images/person-placeholder-light.png
           altText: María González
@@ -456,8 +456,8 @@ sections:
         subtitle: 'Carlos Mendoza, Estudiante de Ingeniería'
         text: >-
           Gracias a las conexiones que hice aquí, conseguí prácticas en una
-          startup increíble y ahora tengo una oferta de trabajo full-time.
-          ¡Best Las Palmas funciona!
+          startup increíble y ahora tengo una oferta de trabajo full-time. ¡Best
+          Las Palmas funciona!
         image:
           url: /images/img-placeholder-dark.png
           altText: Carlos Mendoza
@@ -518,7 +518,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Únete a la familia Best Las Palmas 🏠
+      text: "Únete a la familia Best Las Palmas \U0001F3E0"
       color: text-primary
       styles:
         self:
@@ -552,8 +552,9 @@ sections:
       - title: Networking real
         tagline: Conexiones que importan
         subtitle: Tu futuro profesional
-        text: |
-          Conecta con empresas, startups y profesionales que pueden cambiar tu carrera.
+        text: >
+          Conecta con empresas, startups y profesionales que pueden cambiar tu
+          carrera.
         image:
           url: /images/abstract-feature2.svg
           altText: Networking profesional
@@ -609,7 +610,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: ¿Listo para unirte? 🚀
+      text: "¿Listo para unirte? \U0001F680"
       color: text-dark
       type: TitleBlock
     subtitle: Completa el formulario y comienza tu aventura
