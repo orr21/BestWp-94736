@@ -9,7 +9,8 @@
                 "borderWidth": 1
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/best-logo.svg"
     },
     "primaryLinks": [
         {
