@@ -221,16 +221,7 @@ sections:
       type: TitleBlock
     subtitle: Lee las experiencias de nuestros miembros
     showExcerpt: false
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - title: Divider
     colors: bg-light-fg-dark
     styles:
