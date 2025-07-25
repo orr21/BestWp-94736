@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    recentCount: 4
+    recentCount: 3
     showThumbnail: true
     showExcerpt: true
     showDate: true
