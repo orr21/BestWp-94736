@@ -391,10 +391,6 @@ sections:
         iconPosition: right
         style: primary
         type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Desarrollo estudiantil
-      type: ImageBlock
     badge:
       label: Tu mejor versión te espera
       color: text-primary
