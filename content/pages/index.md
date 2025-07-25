@@ -196,7 +196,7 @@ sections:
   - posts:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/what-is-a-design-system.md
     showThumbnail: true
     showDate: true
     showAuthor: true
