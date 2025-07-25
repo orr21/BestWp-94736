@@ -3,17 +3,21 @@ title: Rodéate de las personas correctas en la universidad
 slug: rodeate-personas-correctas-universidad
 date: '2024-11-15'
 excerpt: >-
-  La universidad no es solo estudiar. Es el momento perfecto para construir una red de contactos increíble que te acompañará toda la vida. Descubre cómo elegir a las personas correctas en tu círculo universitario.
+  La universidad no es solo estudiar. Es el momento perfecto para construir una
+  red de contactos increíble que te acompañará toda la vida. Descubre cómo
+  elegir a las personas correctas en tu círculo universitario.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/avatar4.svg
   styles:
     self:
       borderRadius: medium
 seo:
   metaTitle: Rodéate de las personas correctas en la universidad
-  metaDescription: Consejos para construir una red de contactos increíble durante tu etapa universitaria.
+  metaDescription: >-
+    Consejos para construir una red de contactos increíble durante tu etapa
+    universitaria.
   socialImage: /images/abstract-feature1.svg
   type: Seo
 colors: bg-light-fg-dark
