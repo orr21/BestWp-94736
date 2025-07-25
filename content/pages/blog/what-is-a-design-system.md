@@ -9,7 +9,7 @@ excerpt: >-
   unified framework to ensure consistency, efficiency, and scalability across a
   product's user interface (UI) and user experience (UX).
 featuredImage:
-  url: /images/empathy-logo.svg
+  url: /images/hero3.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
