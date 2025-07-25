@@ -196,7 +196,6 @@ sections:
   - posts:
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showDate: true
     showAuthor: true
