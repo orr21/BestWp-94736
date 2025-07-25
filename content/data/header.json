@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "altText": "Best Las Palmas",
         "styles": {
             "self": {
                 "margin": [
@@ -13,8 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Eventos",
+            "url": "/eventos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,37 +30,37 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Únete",
+            "altText": "Únete a nosotros",
+            "url": "/unete",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Más info",
+            "altText": "Más información",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Sobre nosotros",
+                    "url": "/sobre-nosotros",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Contacto",
+                    "url": "/contacto",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "FAQ",
+                    "url": "/preguntas-frecuentes",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -71,7 +71,30 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "label": "Iniciar sesión",
+            "altText": "Iniciar sesión",
+            "url": "/login",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": "",
+            "type": "Link"
+        },
+        {
+            "label": "¡Únete!",
+            "altText": "Únete a Best Las Palmas",
+            "url": "/unete",
+            "showIcon": true,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": "",
+            "type": "Button"
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"

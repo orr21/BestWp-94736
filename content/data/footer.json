@@ -1,33 +1,33 @@
 {
     "logo": {
         "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "altText": "Best Las Palmas",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "La asociación estudiantil más vibrante de Las Palmas. Conectamos estudiantes, creamos oportunidades y construimos el futuro juntos. 🌟",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Participa",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Eventos",
+                "altText": "Próximos eventos",
+                "url": "/eventos",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Únete",
+                "url": "/unete",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Voluntariado",
+                "url": "/voluntariado",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,12 +37,12 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Conoce más",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Sobre nosotros",
+                "altText": "Quiénes somos",
+                "url": "/sobre-nosotros",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -55,55 +55,63 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "label": "Contacto",
+                "url": "/contacto",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Instagram de Best Las Palmas",
+            "url": "https://instagram.com/bestlaspalmas",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "altText": "Twitter de Best Las Palmas",
+            "url": "https://twitter.com/bestlaspalmas",
             "icon": "twitter",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "altText": "LinkedIn de Best Las Palmas",
+            "url": "https://www.linkedin.com/company/bestlaspalmas",
             "icon": "linkedin",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "Email de contacto",
+            "url": "mailto:hola@bestlaspalmas.com",
             "icon": "mail",
             "type": "Social"
         }
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Términos",
+            "url": "/terminos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
+            "label": "Privacidad",
+            "url": "/privacidad",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "© 2025 Best Las Palmas. Hecho con ❤️ por estudiantes para estudiantes.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

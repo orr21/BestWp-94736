@@ -1,9 +1,9 @@
 ---
-title: Surround Yourself With the Right People
-slug: surround-yourself-with-right-people
-date: '2024-03-26'
+title: Rodéate de las personas correctas en la universidad
+slug: rodeate-personas-correctas-universidad
+date: '2024-11-15'
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges, risks, and countless decisions that can make or break your startup. One of the most critical decisions you'll make isn’t about your product or market—it's about the people you surround yourself with.
+  La universidad no es solo estudiar. Es el momento perfecto para construir una red de contactos increíble que te acompañará toda la vida. Descubre cómo elegir a las personas correctas en tu círculo universitario.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
@@ -12,8 +12,8 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: Surround Yourself With the Right People
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaTitle: Rodéate de las personas correctas en la universidad
+  metaDescription: Consejos para construir una red de contactos increíble durante tu etapa universitaria.
   socialImage: /images/abstract-feature1.svg
   type: Seo
 colors: bg-light-fg-dark
@@ -25,50 +25,52 @@ styles:
 isFeatured: false
 ---
 
-Starting a business is no small feat. It’s a journey filled with challenges, risks, and countless decisions that can make or break your startup. One of the most critical decisions you'll make isn’t about your product or market—it's about the people you surround yourself with.
+La universidad es mucho más que clases y exámenes. Es el momento perfecto para construir relaciones que definirán tu futuro personal y profesional. En Best Las Palmas hemos visto cómo las conexiones correctas pueden transformar completamente la experiencia universitaria de una persona.
 
-## Why the Right People Matter
+## Por qué las personas correctas importan tanto
 
-In the early stages of a startup, every team member plays a crucial role. The right people bring not only their skills but also their energy, attitude, and resilience. They’re the ones who will stick with you through thick and thin, help navigate obstacles, and push the company toward success.
+Durante tus años universitarios, cada persona que conoces puede abrir una puerta nueva. Las personas correctas no solo aportan conocimientos, sino también energía positiva, motivación y oportunidades increíbles. Son quienes te acompañarán en los momentos difíciles y celebrarán contigo los éxitos.
 
-### 1. Shared Vision
+### 1. Visión compartida
 
-Having a team that aligns with your vision is essential. People who understand and believe in your mission will work tirelessly to see it come to life. They’ll be your champions, your sounding boards, and your biggest supporters.
+Rodearte de personas que comparten tus objetivos y valores es fundamental. En Best Las Palmas, todos nuestros miembros comparten la visión de hacer de la universidad una experiencia transformadora. Cuando todos reman en la misma dirección, los resultados son increíbles.
 
-### 2. Diverse Skills
+### 2. Habilidades diversas
 
-Surround yourself with individuals whose skills complement yours. A diverse team brings different perspectives, ideas, and solutions to the table. This diversity is invaluable when it comes to innovation and problem-solving.
+Busca personas con habilidades que complementen las tuyas. En nuestra asociación tenemos estudiantes de todas las carreras: desde ingenieros hasta artistas, pasando por futuros empresarios y psicólogos. Esta diversidad enriquece cada proyecto y cada conversación.
 
-### 3. Positive Energy
+### 3. Energía positiva
 
-Startups are demanding, and the road to success can be bumpy. Positive, resilient individuals help maintain morale and keep the team motivated, even during tough times. Their optimism can be infectious, boosting the entire team's spirit.
+La universidad puede ser estresante, pero rodearte de personas positivas hace toda la diferencia. En Best Las Palmas promovemos un ambiente donde el apoyo mutuo y la buena vibra son la norma. El optimismo es contagioso y eleva el espíritu de todo el grupo.
 
-### 4. Constructive Criticism
+### 4. Crítica constructiva
 
-You need people who can provide honest, constructive feedback. Yes-men won’t help you grow; critical thinkers will. Surround yourself with people who challenge your ideas and push you to refine and improve them.
+Necesitas personas que te den feedback honesto y constructivo. Los "sí-hombres" no te ayudarán a crecer; los pensadores críticos sí. En nuestra comunidad fomentamos el debate sano y la retroalimentación que te ayuda a mejorar constantemente.
 
-### 5. Cultural Fit
+### 5. Compatibilidad cultural
 
-Beyond skills and experience, cultural fit is crucial. A cohesive team culture fosters better communication, collaboration, and a more enjoyable work environment. This leads to higher productivity and lower turnover.
+Más allá de las habilidades académicas, la compatibilidad personal es crucial. Una cultura de grupo cohesiva fomenta mejor comunicación, colaboración y un ambiente más disfrutable. Esto se traduce en mejores resultados académicos y experiencias más enriquecedoras.
 
-## How to Find the Right People
+## Cómo encontrar a las personas correctas
 
-### 1. Network Intentionally
+### 1. Haz networking intencional
 
-Attend industry events, join startup communities, and engage with like-minded individuals. Networking intentionally can help you find people who share your values and aspirations.
+Participa en eventos universitarios, únete a asociaciones estudiantiles como Best Las Palmas, y conecta con personas que comparten tus intereses. El networking intencional te ayuda a encontrar personas que realmente suman a tu vida.
 
-### 2. Leverage Referrals
+### 2. Aprovecha las recomendaciones
 
-Ask your existing network for referrals. People you trust are likely to introduce you to other reliable and skilled professionals.
+Pide a tu red actual que te recomiende personas interesantes. Las personas en las que confías probablemente te presentarán a otros estudiantes increíbles y confiables.
 
-### 3. Assess Soft Skills
+### 3. Evalúa las habilidades blandas
 
-During the hiring process, don’t just focus on technical abilities. Assess candidates' soft skills, such as communication, adaptability, and teamwork, which are crucial in a startup environment.
+No te enfoques solo en las calificaciones académicas. Evalúa habilidades como comunicación, adaptabilidad y trabajo en equipo, que son cruciales en cualquier ambiente colaborativo.
 
-### 4. Trial Periods
+### 4. Períodos de prueba
 
-Consider trial periods for new hires. This allows both parties to assess fit and compatibility before making a long-term commitment.
+Considera "períodos de prueba" en nuevas amistades o colaboraciones. Esto permite a ambas partes evaluar la compatibilidad antes de comprometerse a largo plazo.
 
-## Conclusion
+## Conclusión
 
-In the journey of building a startup, the people you surround yourself with can significantly impact your success. By choosing individuals who share your vision, bring diverse skills, and contribute positively to the company culture, you’ll create a strong foundation for growth. Remember, the right team can turn your startup dream into a reality.
+En el viaje universitario, las personas que eliges como compañeras pueden impactar significativamente tu éxito personal y profesional. Al elegir individuos que comparten tu visión, aportan habilidades diversas y contribuyen positivamente al ambiente, crearás una base sólida para tu crecimiento.
+
+En Best Las Palmas, creemos que la universidad es el momento perfecto para construir estas relaciones transformadoras. ¡Únete a nosotros y descubre el poder de rodearte de las personas correctas!

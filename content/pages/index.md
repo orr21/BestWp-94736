@@ -4,25 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: ¡Únete a la revolución estudiantil de Las Palmas! 🚀
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Best Las Palmas - Donde los estudiantes brillan
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Somos la asociación estudiantil más vibrante de Las Palmas. Conectamos
+      estudiantes, creamos oportunidades increíbles y construimos el futuro
+      juntos. ¡Tu aventura universitaria comienza aquí!
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
+      - label: ¡Únete ahora!
         altText: ''
         url: /
         showIcon: true
@@ -30,14 +21,23 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+        type: Button
+      - label: Descubre más
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Estudiantes de Best Las Palmas unidos
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ¡Nuevo semestre, nuevas aventuras!
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +53,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: ¿Por qué Best Las Palmas es increíble? 🌟
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Descubre todo lo que podemos hacer juntos
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: 500+
+        subtitle: Estudiantes activos
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Una comunidad vibrante de más de 500 estudiantes de todas las
+          carreras. ¡Aquí encontrarás tu tribu perfecta!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -84,21 +83,20 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Comunidad estudiantil
           elementId: ''
           url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: 50+
+        subtitle: Eventos al año
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Desde fiestas épicas hasta talleres súper útiles. Siempre hay algo
+          emocionante pasando en Best Las Palmas.
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
+          altText: Eventos estudiantiles
           elementId: ''
           type: ImageBlock
         actions: []
@@ -115,15 +113,14 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: 100%
+        subtitle: Diversión garantizada
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Prometemos que tu experiencia universitaria será épica. Amistades
+          para toda la vida, recuerdos increíbles y mucha diversión.
         image:
           url: /images/icon3.svg
-          altText: Featured icon three
+          altText: Diversión estudiantil
           elementId: ''
           type: ImageBlock
         actions: []
@@ -139,7 +136,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: ¡Quiero participar!
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +146,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Lo mejor de ser estudiante
       color: text-primary
       styles:
         self:
@@ -168,28 +165,25 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Las universidades que confían en nosotros
     images:
       - url: /images/empathy-logo.svg
-        altText: Empathy logo
+        altText: Universidad Las Palmas
         type: ImageBlock
       - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        altText: ULPGC
         type: ImageBlock
       - url: /images/vise-logo.svg
-        altText: Vise logo
+        altText: Universidad Fernando Pessoa
         type: ImageBlock
       - url: /images/telus-logo.svg
-        altText: Telus logo
+        altText: ESD Las Palmas
         type: ImageBlock
       - url: /images/contenful-logo.svg
-        altText: Contentful logo
+        altText: Instituto Canarias
         type: ImageBlock
       - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+        altText: Centro Universitario
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -200,9 +194,9 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showDate: true
     showAuthor: true
@@ -218,6 +212,14 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      text: Historias que inspiran 📖
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Lee las experiencias de nuestros miembros
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,20 +231,19 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Tu futuro comienza aquí 🎯
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Descubre las oportunidades que te esperan
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      En Best Las Palmas no solo estudiamos, ¡vivimos experiencias únicas!
+      Desde networking con profesionales hasta eventos que marcarán tu vida
+      universitaria. Aquí es donde los sueños se hacen realidad.
     media:
-      title: Title of the video
+      title: Conoce Best Las Palmas
       url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
@@ -262,7 +263,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Tu nueva familia universitaria
       color: text-primary
       styles:
         self:
@@ -278,21 +279,33 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Networking que funciona 🤝
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Conecta con profesionales y empresas top
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
+      Organizamos meetups, charlas con CEOs, workshops con startups y eventos
+      de networking que realmente abren puertas. Tu carrera profesional
+      empieza aquí, no cuando te gradúes.
+    actions:
+      - label: Ver próximos eventos
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: Únete al networking
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
     media:
-      title: Title of the video
+      title: Eventos de networking
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
@@ -320,21 +333,22 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Eventos que no te puedes perder 🎉
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Diversión, aprendizaje y networking en uno
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Desde fiestas temáticas hasta hackathons, pasando por torneos de
+      videojuegos y charlas inspiradoras. En Best Las Palmas siempre pasa algo
+      increíble.
     actions:
-      - label: Get started
+      - label: Ver calendario
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Próximos eventos
         url: /
         showIcon: true
         icon: arrowRight
@@ -343,10 +357,10 @@ sections:
         type: Link
     media:
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: Eventos estudiantiles divertidos
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Siempre hay algo nuevo
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -355,21 +369,22 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Desarrollo personal y profesional 💪
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Crece mientras te diviertes
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Talleres de liderazgo, cursos de habilidades blandas, mentorías
+      personalizadas y programas de intercambio. Invertimos en tu crecimiento
+      personal y profesional.
     actions:
-      - label: Get started
+      - label: Explorar programas
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Solicitar mentoría
         url: /
         showIcon: true
         icon: arrowRight
@@ -378,10 +393,10 @@ sections:
         type: Link
     media:
       url: /images/hero3.svg
-      altText: Dope design preview
+      altText: Desarrollo estudiantil
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Tu mejor versión te espera
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -402,20 +417,20 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Lo que dicen nuestros miembros 💬
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+          "Best Las Palmas cambió completamente mi experiencia universitaria.
+          Aquí encontré mi pasión y mis mejores amigos."
+        tagline: Testimonio 1
+        subtitle: 'María González, Estudiante de Marketing'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Llegué tímida y sin saber qué hacer con mi carrera. Ahora lidero
+          proyectos, tengo una red increíble de contactos y sé exactamente
+          hacia dónde voy.
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: María González
           styles:
             self:
               borderRadius: full
@@ -435,139 +450,53 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+          "Los eventos de networking de Best Las Palmas me consiguieron mi
+          trabajo de ensueño antes de graduarme."
+        tagline: Testimonio 2
+        subtitle: 'Carlos Mendoza, Estudiante de Ingeniería'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Gracias a las conexiones que hice aquí, conseguí prácticas en una
+          startup increíble y ahora tengo una oferta de trabajo full-time.
+          ¡Best Las Palmas funciona!
         image:
           url: /images/img-placeholder-dark.png
-          altText: Jane Doe
+          altText: Carlos Mendoza
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
         colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "Aquí no solo estudias, vives experiencias que te marcan para toda la
+          vida. ¡Es como una segunda familia!"
+        tagline: Testimonio 3
+        subtitle: 'Ana Rodríguez, Estudiante de Psicología'
+        text: >-
+          Los viajes, las fiestas, los proyectos colaborativos... Todo en Best
+          Las Palmas está diseñado para que crezcas como persona mientras te
+          diviertes al máximo.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Ana Rodríguez
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -589,22 +518,22 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Únete a la familia Best Las Palmas 🏠
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Todo lo que necesitas para una experiencia universitaria épica
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Eventos semanales
+        tagline: Siempre activos
+        subtitle: Nunca te aburrirás
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Fiestas, talleres, charlas, torneos... ¡Siempre hay algo que hacer!
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          altText: Eventos estudiantiles
           styles:
             self:
               borderRadius: x-large
@@ -620,14 +549,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Networking real
+        tagline: Conexiones que importan
+        subtitle: Tu futuro profesional
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Conecta con empresas, startups y profesionales que pueden cambiar tu carrera.
         image:
           url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          altText: Networking profesional
           styles:
             self:
               borderRadius: x-large
@@ -643,14 +572,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Comunidad increíble
+        tagline: Tu nueva familia
+        subtitle: Amistades para toda la vida
         text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+          Conoce personas increíbles que comparten tus intereses y ambiciones.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          altText: Comunidad estudiantil
           styles:
             self:
               borderRadius: x-large
@@ -680,35 +609,49 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: ¿Listo para unirte? 🚀
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Completa el formulario y comienza tu aventura
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Solo necesitamos algunos datos para conocerte mejor y enviarte toda la
+      información sobre próximos eventos, oportunidades exclusivas y cómo
+      formar parte activa de nuestra comunidad.
+    actions: []
     media:
       fields:
         - name: name
-          label: Name
+          label: Nombre
           hideLabel: true
-          placeholder: Your name
+          placeholder: Tu nombre completo
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: tu.email@universidad.com
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
+        - name: university
+          label: Universidad
           hideLabel: true
-          placeholder: Your message
+          placeholder: ¿En qué universidad estudias?
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: career
+          label: Carrera
+          hideLabel: true
+          placeholder: ¿Qué carrera estudias?
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: message
+          label: Mensaje
+          hideLabel: true
+          placeholder: Cuéntanos por qué quieres unirte a Best Las Palmas
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -726,21 +669,23 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
+        label: ¡Quiero unirme!
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ¡Da el primer paso!
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Best Las Palmas - Asociación Estudiantil
+  metaDescription: >-
+    Únete a la asociación estudiantil más vibrante de Las Palmas. Eventos,
+    networking, desarrollo personal y una comunidad increíble te esperan.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
