@@ -248,7 +248,7 @@ sections:
       title: Conoce Best Las Palmas
       url: /images/placeholder-video.mp4
       controls: false
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
