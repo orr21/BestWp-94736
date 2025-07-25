@@ -9,7 +9,9 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
