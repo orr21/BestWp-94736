@@ -122,7 +122,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: See Event
             altText: ''
             url: /
             showIcon: false
