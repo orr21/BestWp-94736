@@ -196,6 +196,7 @@ sections:
   - posts:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/surround-yourself-with-right-people.md
     showThumbnail: true
     showDate: true
     showAuthor: true
