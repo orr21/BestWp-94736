@@ -220,6 +220,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Lee las experiencias de nuestros miembros
+    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
